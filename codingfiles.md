@@ -1,4 +1,4 @@
-# EASY
+#  EASY
 
 个人认为middle和hard级别的题目可以拆解成若干个easy的题，因此，数量掌握easy和基础知识点对coding的深入化非常有益！
 
@@ -38,29 +38,51 @@ coding参考：《剑指offer》第2版
 
 ​			哨兵节点广泛应用于树和链表中，如伪头、伪尾、标记等，它们是纯功能的，通常不保存任何数据，     ## 其主要目的是使链表标准化，如使链表永不为空、永不无头、简化插入和删除
 
-| Category | Date | python&&C++                                                  | core code&& tags |
-| -------- | ---- | ------------------------------------------------------------ | ---------------- |
-| tree     | 7.16 | [检查平衡性](https://leetcode-cn.com/problems/check-balance-lcci/) |                  |
-|          |      |                                                              |                  |
-|          |      |                                                              |                  |
-|          |      |                                                              |                  |
-|          |      |                                                              |                  |
-|          |      |                                                              |                  |
-|          |      |                                                              |                  |
-|          |      |                                                              |                  |
-|          |      |                                                              |                  |
-|          |      |                                                              |                  |
-|          |      |                                                              |                  |
-|          |      |                                                              |                  |
-|          |      |                                                              |                  |
-|          |      |                                                              |                  |
-|          |      |                                                              |                  |
-|          |      |                                                              |                  |
-|          |      |                                                              |                  |
-|          |      |                                                              |                  |
-|          |      |                                                              |                  |
+| Category | Date | python&&C++                                                  | core code&& tags   |
+| -------- | ---- | ------------------------------------------------------------ | ------------------ |
+| tree     | 7.16 | [检查平衡性](https://leetcode-cn.com/problems/check-balance-lcci/) | 递归，深度优先搜索 |
+|          | 7.17 | [对称二叉树](https://leetcode-cn.com/problems/symmetric-tree/) |                    |
+|          | 7.18 | [N叉树的后序遍历](https://leetcode-cn.com/problems/n-ary-tree-postorder-traversal/submissions/) | 递归和迭代         |
+|          | 7.19 | [二叉搜索树最近公共祖先](https://leetcode-cn.com/problems/er-cha-sou-suo-shu-de-zui-jin-gong-gong-zu-xian-lcof/submissions/) | 递归和迭代         |
+|          | 7.20 | [二叉树的最大深度](https://leetcode-cn.com/problems/maximum-depth-of-binary-tree/submissions/) | 递归和迭代         |
+|          | 8.3  | [N叉树的前序遍历](https://leetcode-cn.com/problems/n-ary-tree-preorder-traversal/) | 递归               |
+|          |      |                                                              |                    |
+|          |      |                                                              |                    |
+|          |      |                                                              |                    |
+|          |      |                                                              |                    |
+|          |      |                                                              |                    |
+|          |      |                                                              |                    |
+|          |      |                                                              |                    |
+|          |      |                                                              |                    |
+|          |      |                                                              |                    |
+|          |      |                                                              |                    |
+|          |      |                                                              |                    |
+|          |      |                                                              |                    |
+|          |      |                                                              |                    |
 
 
+
+| Category | Date | python&&C++                                                  | core code&& tags                                   |
+| -------- | ---- | ------------------------------------------------------------ | -------------------------------------------------- |
+| vector   | 7.21 | [0~n-1中缺失的数字](https://leetcode-cn.com/problems/que-shi-de-shu-zi-lcof/) | (递增排序)二分法+边界条件                          |
+|          | 7.22 | [最长连续递增子数组](https://leetcode-cn.com/problems/longest-continuous-increasing-subsequence/) | 二分法                                             |
+|          | 7.23 | [搜索插入位置](https://leetcode-cn.com/problems/search-insert-position/) | 二分法，退出循环条件                               |
+|          | 7.24 | [子数组最大平均数](https://leetcode-cn.com/problems/maximum-average-subarray-i/) | 滑动窗法                                           |
+|          | 7.25 | [数组的度](https://leetcode-cn.com/problems/degree-of-an-array/) | unordered map 最值嵌套                             |
+|          | 7.26 | [缀点成线](https://leetcode-cn.com/problems/check-if-it-is-a-straight-line/) | double类型比较，分母为0讨论                        |
+|          | 7.27 | [可以被一次捕获的棋子数](https://leetcode-cn.com/problems/available-captures-for-rook/) | 方向数组                                           |
+|          | 7.28 | [统计好三元组](https://leetcode-cn.com/problems/count-good-triplets/) | 枚举优化                                           |
+|          | 7.29 | [和为0的N个唯一整数](https://leetcode-cn.com/problems/find-n-unique-integers-sum-up-to-zero/) | 奇偶数讨论                                         |
+|          | 7.30 | [多数元素](https://leetcode-cn.com/problems/majority-element/submissions/) | 哈希表 排序 随机化 分治 Boyer-Moore 投票算法       |
+|          | 7.31 | [等价多米诺骨牌对的数量](https://leetcode-cn.com/problems/number-of-equivalent-domino-pairs/) |                                                    |
+|          | 8.1  | [移除元素](https://leetcode-cn.com/problems/remove-element/) | 删除数组或列表时，当前下标的元素变成了下一个元素！ |
+|          | 8.2  | [两个数组的交集 II](https://leetcode-cn.com/problems/intersection-of-two-arrays-ii/) | hashmap，sort+double pointer                       |
+|          |      |                                                              |                                                    |
+|          |      |                                                              |                                                    |
+|          |      |                                                              |                                                    |
+|          |      |                                                              |                                                    |
+|          |      |                                                              |                                                    |
+|          |      |                                                              |                                                    |
 
 
 
